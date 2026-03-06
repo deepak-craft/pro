@@ -112,5 +112,5 @@ The system uses Stripe for payment processing. Currently configured for test mod
 ## License
 
 This project is for educational purposes.
-update
+<!-- update -->
 
